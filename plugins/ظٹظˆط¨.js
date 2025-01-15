@@ -50,5 +50,5 @@ let handler = async (m, { conn, args }) => {
   }
 };
 
-handler.command = /^fgmp4|فيديو|getvid|yt(v|mp4)?|يوب$/i;
+handler.command = /^fgmp4|فيديو2|getvid|yt(v|mp4)?|يوب$/i;
 export default handler;
