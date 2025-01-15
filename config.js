@@ -449,16 +449,16 @@ console.log(chalk.redBright("Update 'config.js'"));
 import(`${file}?update=${Date.now()}`);
 })
 
-global.yt = 'https://youtube.com/@gatadios'
-global.ig = 'https://www.instagram.com/gata_dios'
+global.yt = 'https://youtube.com'
+global.ig = 'https://www.instagram.com/terbo-001'
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789'
-global.tk = 'https://www.tiktok.com/@gata_dios'
+global.tk = 'https://www.tiktok.com/@mohndalcot'
 global.ths = 'https://www.threads.net/@gata_dios'
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'https://wa.me/message/MEKOUFBEOG5ED1'
 global.all = 'https://www.atom.bio/GataBot'
-global.canal1 = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A'
-global.canal2 = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g'
-global.canal3 = 'https://whatsapp.com/channel/0029VaKn22pDJ6GwY61Ftn15'
+global.canal1 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
+global.canal2 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
+global.canal3 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
 global.canal4 = 'https://t.me/globalgb'
