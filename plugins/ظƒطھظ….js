@@ -39,7 +39,7 @@ const handler = async (message, { conn, command, text, isAdmin }) => {
       },
       'message': {
         'locationMessage': {
-          'name': "✪┋𝐁𝐎𝐓☞𝐄𝐒𝐂𝐎𝐍𝐀𝐑┋✪",
+          'name': "✪┋𝐁𝐎𝐓☞𝐓𝐄𝐑𝐁𝐎┋✪",
           'jpegThumbnail': await (await fetch('https://telegra.ph/file/f8324d9798fa2ed2317bc.png')).buffer(),
           'vcard': "BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=19709001746:+1 (970) 900-1746\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD"
         }
@@ -81,7 +81,7 @@ const handler = async (message, { conn, command, text, isAdmin }) => {
       },
       'message': {
         'locationMessage': {
-          'name': "✪┋𝐁𝐎𝐓☞𝐄𝐒𝐂𝐎𝐍𝐀𝐑┋✪",
+          'name': "✪┋𝐁𝐎𝐓☞𝐓𝐄𝐑𝐁𝐎┋✪",
           'jpegThumbnail': await (await fetch('https://telegra.ph/file/aea704d0b242b8c41bf15.png')).buffer(),
           'vcard': "BEGIN:VCARD\nVERSION:3.0\nN:;Unlimited;;;\nFN:Unlimited\nORG:Unlimited\nTITLE:\nitem1.TEL;waid=19709001746:+1 (970) 900-1746\nitem1.X-ABLabel:Unlimited\nX-WA-BIZ-DESCRIPTION:ofc\nX-WA-BIZ-NAME:Unlimited\nEND:VCARD"
         }
@@ -109,7 +109,7 @@ const handler = async (message, { conn, command, text, isAdmin }) => {
   }
 };
 
-handler.command = /^(كتم|الغاء-الكتم)$/i;
+handler.command = /^(كتم|كتمفك)$/i;
 handler.group = true;
 handler.admin = true;
 handler.botAdmin = true;
