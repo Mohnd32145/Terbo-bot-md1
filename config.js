@@ -13,15 +13,15 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["994400776021", '♯𝑻𝑼𝑹𝑩𝑶◡̈⃝', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["5492266613038"], 
+["201276506015", '〔⚡️〕𝑻𝑬𝑹𝑩𝑶〔⚡️〕', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["994400776021", '〔⚡️〕𝑻𝑬𝑹𝑩𝑶〔⚡️〕', true],
 ["5573031859"],
+["5218715746374"],
 ["593968585383"],
 ["595976126756"],
 ["584125778026"],
 ["593968263524"],
-["5215539356057"],
-["5218714429807"]]
+["5215539356057"]]
 
 global.mods = []
 global.prems = []
@@ -57,7 +57,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ IDIOMAS DISPONIBLES : AVAILABLE LANGUAGES ❱❱
 // Español 👉 es           
 // English 👉 en
-global.lenguajeGB = ar
+global.lenguajeGB = es
 global.mid = esDefault
 global.version_language = '1.0 (MID-GB)'
 
@@ -79,7 +79,7 @@ global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = "GataDiosV3"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
-global.apis = 'https://deliriussapi-oficial.vercel.app'
+global.apis = 'https://delirius-apiofc.vercel.app'
 
 global.APIs = { 
 xteam: 'https://api.xteam.xyz',
@@ -136,8 +136,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = `╭ 𝗚𝗮𝘁𝗮𝗕𝗼𝘁-𝗠𝗗 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @gatadios\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @gata_dios\n╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈"
-global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ GataNina-Li\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕:\n ┃ @OficialGD\n ╰━━━━━━━━•` //"𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨"
+global.packname = `𝑻𝑬𝑹𝑩𝑶〔⚡️〕𝑬𝑳 𝑮𝑨𝑴𝑬𝑫"
+global.author = ` 𝑻𝑬𝑹𝑩𝑶〔⚡️〕𝑬𝑳 𝑭𝑨𝑮𝑬𝑹"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -145,7 +145,7 @@ global.author = ` ╭ 𝗚𝗮𝘁𝗮 𝗗𝗶𝗼𝘀 ✓\n ┃\n ┃ » 𝙶�
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "5.0 (Beta)"
-global.gt = "♯𝑻𝑼𝑹𝑩𝑶◡̈⃝"
+global.gt = "↝|𝑻𝑬𝑹𝑩𝑶↝|"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -171,8 +171,8 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "♯𝑻𝑼𝑹𝑩𝑶◡̈⃝"
-global.igfg = "♯𝑻𝑼𝑹𝑩𝑶◡̈⃝"
+global.wm = "𝑻𝑬𝑹𝑩𝑶〔😽〕𝑬𝑳 𝑭𝑨𝑮𝑬𝑹"
+global.igfg = "𝑻𝑬𝑹𝑩𝑶〔😍〕 𝑬𝑳 𝑮𝑨𝑴𝑬𝑫"
 global.nomorown = "593993684821"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -439,6 +439,10 @@ ch5: '120363302472386010@newsletter',
 ch6: '120363301598733462@newsletter',
 ch7: '120363190430436554@newsletter',
 ch8: '120363374372683775@newsletter', 
+ch9: '120363167110224268@newsletter',
+ch10: '120363323882134704@newsletter',
+ch11: '120363370415738881@newsletter',
+ch12: '120363385983031660@newsletter',
 }
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -450,9 +454,9 @@ import(`${file}?update=${Date.now()}`);
 })
 
 global.yt = 'https://youtube.com'
-global.ig = 'https://www.instagram.com/terbo-001'
+global.ig = 'https://www.instagram.com/terbo_001'
 global.md = 'https://github.com/GataNina-Li/GataBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789'
+global.fb = 'https://www.facebook.com'
 global.tk = 'https://www.tiktok.com/@mohndalcot'
 global.ths = 'https://www.threads.net/@gata_dios'
 global.paypal = 'https://paypal.me/OficialGD'
@@ -461,4 +465,12 @@ global.all = 'https://www.atom.bio/GataBot'
 global.canal1 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
 global.canal2 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
 global.canal3 = 'https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f'
-global.canal4 = 'https://t.me/globalgb'
+global.canal4 = 'https://t.me/terbo'
+
+global.soporteGB = "https://chat.whatsapp.com/JxEPWbns1e45Wy0NHFzne2"
+global.grupo1 = "https://chat.whatsapp.com/JxEPWbns1e45Wy0NHFzne2"
+global.grupo2 = "https://chat.whatsapp.com/JxEPWbns1e45Wy0NHFzne2"
+global.grupo_collab1 = "https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f"
+global.grupo_collab2 = "https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f"
+global.grupo_collab3 = "https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f"
+global.grupo_collab4 = "https://whatsapp.com/channel/0029VaxrsAa5kg7EJfR5qU1f"
